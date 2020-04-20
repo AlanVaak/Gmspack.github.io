@@ -1,0 +1,13 @@
+Package: com.gmspack.com
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer:Vaak <alan.vaak@gmail.com>
+Filename: /istec2.0.2.deb
+Size: 3498692
+MD5sum: 40354AB0AF78BE5458F3BE4A5EAB431B
+SHA1: 282760DE0CA470ABB5F037BE627A0AD90064E417
+SHA256: 9D3CDCA45D8583D420CD4710070F2A2FA2768312BCFB68F40A4AA238CBB3B73F
+Section: Tweaks
+Description: istec 2.0.2
+Author: Aka <alan.vaak@gmail.com>
+Name: ISTEC 2.0.2
